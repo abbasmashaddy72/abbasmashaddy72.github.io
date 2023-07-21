@@ -1,66 +1,104 @@
-<h3 align="center">Passionate Full Stack Developer | AWS Enthusiast | India 🇮🇳</h3>
+# Hi, I'm Syed Kounain Abbas Rizvi 👋
+<div>
+  <img align="left" src="https://komarev.com/ghpvc/?username=abbasmashaddy72&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abbasmashaddy72&label=Profile%20views&color=0e75b6&style=flat" alt="abbasmashaddy72" /> </p>
+<!-- Update the links to your social media profiles -->
+<div align="right">
+  <a href="https://codepen.io/abbasmashaddy72"><img align="right" alt="CodePen" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" /></a>
+  <a href="https://dev.to/abbasmashaddy72"><img align="right" alt="Dev.to" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" /></a>
+  <a href="https://twitter.com/abbasmashaddy72"><img align="right" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" /></a>
+  <a href="https://linkedin.com/in/abbasmashaddy72"><img align="right" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" /></a>
+  <a href="https://stackoverflow.com/users/12481925/syed-kounain-abbas-rizvi"><img align="right" alt="Stack Overflow" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" /></a>
+  <!-- Add more social media links here -->
+  <a href="mailto:abbasmashaddy72@gmail.com">
+    <img align="right" alt="Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
+  </a>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abbasmashaddy72" alt="abbasmashaddy72" /></a> </p>
+<br />
 
-<p align="left"> <a href="https://twitter.com/abbasmashaddy72" target="blank"><img src="https://img.shields.io/twitter/follow/abbasmashaddy72?logo=twitter&style=for-the-badge" alt="abbasmashaddy72" /></a> </p>
+## About Me
 
-### About Me:
-I am an enthusiastic Full Stack Developer from India with a passion for building scalable web applications. My expertise lies in PHP, Python, and JavaScript, and I am well-versed in various frameworks such as Laravel, Codeignitor, and Flask. I am also an AWS enthusiast, proficient in cloud management, and experienced in deploying applications on Amazon S3, Amazon EC2, and Amazon RDS.
+I am a passionate Full Stack Developer from India with a focus on building scalable web applications. My expertise lies in PHP, Python, and JavaScript, and I am well-versed in various frameworks such as Laravel, Codeigniter, and Flask. I am also an AWS enthusiast, proficient in cloud management, and experienced in deploying applications on Amazon S3, Amazon EC2, and Amazon RDS.
 
-### Work Experience:
-**Lead Web Developer | Team Lead**
-*Kasper Solutions | Dubai, UAE (Remote)* | *Dec 2022 - Present*
+## Work Experience
+
+### Lead Web Developer | Team Lead
+**Kasper Solutions | Dubai, UAE (Remote)** | Dec 2022 - Present
 - Led a web development team, providing guidance and mentoring to ensure high-quality code delivery.
 - Developed and implemented web solutions using diverse technologies, ensuring adherence to coding standards.
 - Collaborated with designers, project managers, and clients to optimize solutions for client requirements.
 
-**Web Developer**
-*UMDAA Healthcare Pvt. Ltd. | Hyderabad, India* | *Jan 2020 - Nov 2022*
+### Web Developer
+**UMDAA Healthcare Pvt. Ltd. | Hyderabad, India** | Jan 2020 - Nov 2022
 - Collaborated with clients to gather requirements and implemented responsive design principles for enhanced user experiences.
 - Maintained and updated existing web applications for improved performance and functionality.
 - Resolved technical issues and provided support during project implementation.
 
-### Projects:
-1. [UMDAA Healthcare Website](https://umdaa.co)
-   - Developed a responsive website using Laravel and Bootstrap for an esteemed healthcare institution.
-   - Implemented secure authentication, contact forms, and payment gateways for seamless user interactions.
+### Data Analyst
+**UMDAA Healthcare Pvt. Ltd. | Hyderabad, India** | Jan 2019 - Jan 2020
+- Expertise in data storage, mining, and cleansing for reliable analysis.
+- Translating complex data into actionable insights for strategic decision-making.
+- Establishing data confidentiality, integrity, and compliance processes.
+- Developing data visualization dashboards and reports.
+- Collaborating with stakeholders to define data requirements and objectives.
+- Ensuring data confidentiality, integrity, and regulatory compliance.
 
-2. [Kasper Marketplace](https://marketplace.kasperpro.com)
-   - Contributed to a marketplace project using Flask, providing dynamic elements with JavaScript and Livewire.
-   - Ensured data security and confidentiality in a multi-vendor environment.
+## Projects
 
-3. [OCR Handwriting Recognition API](https://github.com/abbasmashaddy72/handwriting-ocr-api)
-   - Created a Python API with Flask and AWS Textract integration for Optical Character Recognition of handwritten text.
+### UMDAA Healthcare Website
+- Developed a responsive website using Laravel and Bootstrap for an esteemed healthcare institution.
+- Implemented secure authentication, contact forms, and payment gateways for seamless user interactions.
+- [Visit Project](https://umdaa.co)
 
-### Skills:
+### Mythri Website
+- Created a website for a healthcare organization using WordPress, ensuring an easy-to-use CMS for content management.
+- Implemented a user-friendly interface for patients and visitors.
+- [Visit Project](https://mythrihospital.net)
+
+### City Pediatric Surgery Centre
+- Designed and developed a responsive website for a pediatric surgery center using Laravel and Bootstrap.
+- Implemented patient appointment booking functionality and secure payment processing.
+- [Visit Project](https://citypaediatricsurgerycentre.com)
+
+### Caring Ummah Website
+- Contributed to a website project for a non-profit organization using Laravel and Tailwind CSS.
+- Implemented donation features and integrated a blog section for updates.
+- [Visit Project](https://caringummah.org)
+
+### Sonu Motors
+- Developed a website for an automobile dealership using Laravel and Bootstrap.
+- Implemented a vehicle inventory system and provided detailed vehicle information to users.
+- [Visit Project](https://sonu-motors.com)
+
+### Kasper Marketplace
+- Contributed to a marketplace project using Flask, providing dynamic elements with JavaScript and Livewire.
+- Ensured data security and confidentiality in a multi-vendor environment.
+- [Visit Project](https://marketplace.kasperpro.com)
+
+### OCR Handwriting Recognition API
+- Created a Python API with Flask and AWS Textract integration for Optical Character Recognition of handwritten text.
+- [View on GitHub](https://github.com/abbasmashaddy72/handwriting-ocr-api)
+
+## Skills
 - Programming Languages: HTML, CSS, JavaScript, PHP, Python, SQL, YAML
-- Frontend Technologies: Vue.js, React Native, Bootstrap, Tailwind CSS
-- Backend Technologies: Laravel, Codeignitor, Flask, Node.js
+- Backend Technologies: Laravel, Codeigniter, Flask
+- Frontend Technologies: Vue.js, Bootstrap, Tailwind CSS
 - AWS Services: Cloud Management, Amazon S3, Amazon EC2, Amazon RDS
 - Databases: MySQL, MariaDB, PostgreSQL
 - Tools: Git, Postman, Adobe XD
 
-### Education:
+## Education
 - Bachelor of Technology (JNTUH University) | 2012 - 2017
+- Intermediate (Sri Chaitanya Junior Kalasala) | 2010 - 2012
 
-### Certifications:
+## Certifications
 - AWS Certified Cloud Practitioner
 - AWS Certified Developer - Associate (In progress)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<!-- Update the links to your social media profiles -->
-<a href="https://codepen.io/abbasmashaddy72" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="abbasmashaddy72" height="30" width="40" /></a>
-<a href="https://dev.to/abbasmashaddy72" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abbasmashaddy72" height="30" width="40" /></a>
-<a href="https://twitter.com/abbasmashaddy72" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abbasmashaddy72" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abbasmashaddy72" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abbasmashaddy72" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/12481925/syed-kounain-abbas-rizvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12481925/syed-kounain-abbas-rizvi" height="30" width="40" /></a>
-</p>
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=abbasmashaddy72&show_icons=true&locale=en&layout=compact)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abbasmashaddy72&show_icons=true&locale=en&layout=compact" alt="abbasmashaddy72" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abbasmashaddy72&show_icons=true&locale=en" alt="abbasmashaddy72" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abbasmashaddy72&" alt="abbasmashaddy72" /></p>
+## GitHub Stats | GitHub Streak
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abbasmashaddy72&show_icons=true&locale=en) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abbasmashaddy72)
