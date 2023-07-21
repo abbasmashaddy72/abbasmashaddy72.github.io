@@ -1,45 +1,56 @@
-<h3 align="center">A passionate frontend developer from India</h3>
-
+<h3 align="center">Passionate Full Stack Developer | AWS Enthusiast | India 🇮🇳</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abbasmashaddy72&label=Profile%20views&color=0e75b6&style=flat" alt="abbasmashaddy72" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abbasmashaddy72" alt="abbasmashaddy72" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/abbasmashaddy72" target="blank"><img src="https://img.shields.io/twitter/follow/abbasmashaddy72?logo=twitter&style=for-the-badge" alt="abbasmashaddy72" /></a> </p>
+About Me:
+I am an enthusiastic Full Stack Developer from India with a passion for building scalable web applications. My expertise lies in PHP, Python, and JavaScript, and I am well-versed in various frameworks such as Laravel, Codeignitor, and Flask. I am also an AWS enthusiast, proficient in cloud management, and experienced in deploying applications on Amazon S3, Amazon EC2, and Amazon RDS.
 
-- 🔭 I’m currently working on [fy](gfy)
+Work Experience:
+Lead Web Developer | Team Lead
+Kasper Solutions | Dubai, UAE (Remote) | Dec 2022 - Present
 
-- 🌱 I’m currently learning **fy**
+Led a web development team, providing guidance and mentoring to ensure high-quality code delivery.
+Developed and implemented web solutions using diverse technologies, ensuring adherence to coding standards.
+Collaborated with designers, project managers, and clients to optimize solutions for client requirements.
+Web Developer
+UMDAA Healthcare Pvt. Ltd. | Hyderabad, India | Jan 2020 - Nov 2022
 
-- 👯 I’m looking to collaborate on [gfy](fy)
+Collaborated with clients to gather requirements and implemented responsive design principles for enhanced user experiences.
+Maintained and updated existing web applications for improved performance and functionality.
+Resolved technical issues and provided support during project implementation.
+Projects:
+UMDAA Healthcare Website
 
-- 🤝 I’m looking for help with [fy](fy)
+Developed a responsive website using Laravel and Bootstrap for an esteemed healthcare institution.
+Implemented secure authentication, contact forms, and payment gateways for seamless user interactions.
+Kasper Marketplace
 
-- 👨‍💻 All of my projects are available at [fy](fy)
+Contributed to a marketplace project using Flask, providing dynamic elements with JavaScript and Livewire.
+Ensured data security and confidentiality in a multi-vendor environment.
+OCR Handwriting Recognition API
 
-- 📝 I regularly write articles on [fy](fy)
-
-- 💬 Ask me about **fy**
-
-- 📫 How to reach me **fy**
-
-- 📄 Know about my experiences [fy](fy)
-
-- ⚡ Fun fact **fy**
-
+Created a Python API with Flask and AWS Textract integration for Optical Character Recognition of handwritten text.
+Skills:
+Programming Languages: HTML, CSS, JavaScript, PHP, Python, SQL, YAML
+Frontend Technologies: Vue.js, React Native, Bootstrap, Tailwind CSS
+Backend Technologies: Laravel, Codeignitor, Flask, Node.js
+AWS Services: Cloud Management, Amazon S3, Amazon EC2, Amazon RDS
+Databases: MySQL, MariaDB, PostgreSQL
+Tools: Git, Postman, Adobe XD
+Education:
+Bachelor of Technology (JNTUH University) | 2012 - 2017
+Certifications:
+AWS Certified Cloud Practitioner
+AWS Certified Developer - Associate (In progress)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<!-- Update the links to your social media profiles -->
 <a href="https://codepen.io/abbasmashaddy72" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="abbasmashaddy72" height="30" width="40" /></a>
 <a href="https://dev.to/abbasmashaddy72" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abbasmashaddy72" height="30" width="40" /></a>
 <a href="https://twitter.com/abbasmashaddy72" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abbasmashaddy72" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abbasmashaddy72" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abbasmashaddy72" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/12481925/syed-kounain-abbas-rizvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12481925/syed-kounain-abbas-rizvi" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abbasmashaddy72&show_icons=true&locale=en&layout=compact" alt="abbasmashaddy72" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abbasmashaddy72&show_icons=true&locale=en" alt="abbasmashaddy72" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abbasmashaddy72&" alt="abbasmashaddy72" /></p>
