@@ -98,7 +98,7 @@ I am a passionate Full Stack Developer from India with a focus on building scala
 - AWS Certified Developer - Associate (In progress)
 
 ## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=abbasmashaddy72&show_icons=true&locale=en&layout=compact)
+![Top Languages](https://github-readme-stats-ruby-one.vercel.app/api/top-langs?username=abbasmashaddy72&show_icons=true&locale=en&layout=compact)
 
 ## GitHub Stats | GitHub Streak
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abbasmashaddy72&show_icons=true&locale=en) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abbasmashaddy72)
+![GitHub Stats](https://github-readme-stats-ruby-one.vercel.app/api?username=abbasmashaddy72&show_icons=true&locale=en) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abbasmashaddy72)
