@@ -3,14 +3,12 @@
   <img align="left" src="https://komarev.com/ghpvc/?username=abbasmashaddy72&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
 
-<!-- Update the links to your social media profiles -->
 <div align="right">
   <a href="https://codepen.io/abbasmashaddy72"><img align="right" alt="CodePen" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" /></a>
   <a href="https://dev.to/abbasmashaddy72"><img align="right" alt="Dev.to" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" /></a>
   <a href="https://twitter.com/abbasmashaddy72"><img align="right" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" /></a>
   <a href="https://linkedin.com/in/abbasmashaddy72"><img align="right" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" /></a>
   <a href="https://stackoverflow.com/users/12481925/syed-kounain-abbas-rizvi"><img align="right" alt="Stack Overflow" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" /></a>
-  <!-- Add more social media links here -->
   <a href="mailto:abbasmashaddy72@gmail.com">
     <img align="right" alt="Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
   </a>
@@ -84,7 +82,7 @@ I am a passionate Full Stack Developer from India with a focus on building scala
 ## Skills
 - Programming Languages: HTML, CSS, JavaScript, PHP, Python, SQL, YAML
 - Backend Technologies: Laravel, Codeigniter, Flask
-- Frontend Technologies: Vue.js, Bootstrap, Tailwind CSS
+- Frontend Technologies: Vue.js, Bootstrap, Tailwind CSS, React, Angular, Flutter
 - AWS Services: Cloud Management, Amazon S3, Amazon EC2, Amazon RDS
 - Databases: MySQL, MariaDB, PostgreSQL
 - Tools: Git, Postman, Adobe XD
