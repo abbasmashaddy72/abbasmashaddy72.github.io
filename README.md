@@ -105,3 +105,6 @@ I am a passionate Full Stack Developer from India with a focus on building scala
 
 ## GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abbasmashaddy72)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
