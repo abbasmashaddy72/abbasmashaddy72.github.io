@@ -107,4 +107,13 @@ I am a passionate Full Stack Developer from India with a focus on building scala
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abbasmashaddy72)
 
 <!--START_SECTION:waka-->
+
+```txt
+TypeScript       30 hrs 22 mins  █████████████████▒░░░░░░░   69.63 %
+HTML             6 hrs 55 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.88 %
+JSON             2 hrs 19 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 %
+Other            1 hr 34 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
+Text             36 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
+```
+
 <!--END_SECTION:waka-->
