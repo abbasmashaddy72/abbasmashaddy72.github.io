@@ -109,11 +109,11 @@ I am a passionate Full Stack Developer from India with a focus on building scala
 <!--START_SECTION:waka-->
 
 ```txt
-PHP              12 hrs 14 mins  ██████████▓░░░░░░░░░░░░░░   42.48 %
-Blade Template   9 hrs 40 mins   ████████▒░░░░░░░░░░░░░░░░   33.57 %
-TypeScript       2 hrs 48 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.73 %
-HTML             52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
-Markdown         48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
+PHP              9 hrs 42 mins   ███████████▓░░░░░░░░░░░░░   46.62 %
+Blade Template   4 hrs 39 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.38 %
+TypeScript       2 hrs 48 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.46 %
+Bash             52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
+HTML             52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
 ```
 
 <!--END_SECTION:waka-->
