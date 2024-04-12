@@ -109,11 +109,10 @@ I am a passionate Full Stack Developer from India with a focus on building scala
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   2 hrs 14 mins   █████████████████░░░░░░░░   68.12 %
-JavaScript   53 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.94 %
+TypeScript   2 hrs 14 mins   █████████████████░░░░░░░░   68.15 %
+JavaScript   53 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.96 %
 Other        6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
 JSON         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
