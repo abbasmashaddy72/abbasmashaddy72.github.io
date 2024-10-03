@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Dynamic Column Positioning with Filament Tables in Laravel"
-date: 2024-10-01 14:00:00 +0000
-categories: laravel filament tables dynamic-columns
+date: 2024-10-03
+categories: Blog
 ---
 
 Here’s a detailed documentation explaining the working and usage of the provided solution, covering each part of the code:
