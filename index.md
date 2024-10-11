@@ -12,7 +12,7 @@ I'm a passionate **Full Stack Developer** from India with expertise in **PHP**, 
 
 ## 📄 Latest Blog Post
 
-- [Dynamic Column Positioning](https://github.com/abbasmashaddy72/abbasmashaddy72.github.io/blob/main/_posts/2024-10-03-dynamic-column-positioning.md)
+- [Dynamic Column Positioning](https://abbasmashaddy72.github.io/blog/2024/10/03/dynamic-column-positioning.html)
 
 ## 💼 Work Experience
 
