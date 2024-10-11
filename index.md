@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Home"
+---
+
 # Hi, I'm Syed Kounain Abbas Rizvi 👋
 
 I'm a passionate **Full Stack Developer** from India with expertise in **PHP**, **Python**, **JavaScript**, and frameworks such as **Laravel**, **Codeigniter**, and **Flask**. I also specialize in **AWS Cloud Management**, deploying applications on **Amazon S3**, **EC2**, and **RDS**.
@@ -53,10 +58,6 @@ _Jan 2019 - Jan 2020_
 
 - **AWS Certified Cloud Practitioner**
 - **AWS Certified Developer - Associate** _(In progress)_
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abbasmashaddy72&show_icons=true&include_all_commits=true&theme=dark)
 
 ## 📧 Contact
 

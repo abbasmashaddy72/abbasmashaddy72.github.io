@@ -5,3 +5,5 @@ plugins:
 
 title: "Syed Kounain Abbas Rizvi's Blog"
 description: "Sharing insights, tutorials, and experiences from my journey as a web developer. Explore practical solutions, tools, and techniques for mastering modern web technologies."
+baseurl: ""
+url: "https://abbasmashaddy72.github.io"
