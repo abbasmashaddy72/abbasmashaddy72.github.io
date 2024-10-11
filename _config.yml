@@ -1,5 +1,3 @@
+theme: architect
 title: "Syed Kounain Abbas Rizvi's Blog"
-description: "A blog about my web development experiences"
-baseurl: ""
-url: "https://abbasmashaddy72.github.io"
-theme: minima
+description: "Sharing insights, tutorials, and experiences from my journey as a web developer. Explore practical solutions, tools, and techniques for mastering modern web technologies."

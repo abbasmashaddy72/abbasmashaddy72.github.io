@@ -2,7 +2,7 @@
 layout: post
 title: "Dynamic Column Positioning with Filament Tables in Laravel"
 date: 2024-10-03
-categories: Blog
+categories: Blog, Filament, Laravel
 ---
 
 "This guide outlines a solution for dynamically managing and saving table column positions in a Filament-powered Laravel application, allowing users to customize their table layouts and retain preferences across sessions."
