@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Dynamic Column Positioning with Filament Tables in Laravel"
 date: 2024-10-03
 categories: Blog, Filament, Laravel
